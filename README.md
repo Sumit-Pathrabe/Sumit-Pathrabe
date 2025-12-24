@@ -40,7 +40,7 @@ B.Tech Data Science | RCOEM, Nagpur (2023–2027, Expected)
 Higher Secondary | Jain International College (2021–2023) 
 ​
 
-10th | St. Xavier's High School (2021) 
+
 ​
 
 📜 Certifications
