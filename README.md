@@ -1,58 +1,126 @@
-## Hi there 👋
+# Hi, I'm Sumit Pathrabe 👋
 
-Sumit Pathrabe 🚀
-Fresh-out-the-oven Data Scientist turning raw data into rocket fuel for business decisions. Python wizard, ML enthusiast, and Power BI storyteller—currently conquering my B.Tech in Data Science at RCOEM, Nagpur. Let's decode the future together!
-​
+Data Science Undergraduate | Data Engineering Enthusiast | Problem Solver
 
-🔥 Featured Projects
-Customer Churn Prediction: Built an ML classification model with killer feature engineering—boosted accuracy by 25%. Predict who’s jumping ship before they do.
-​
+I am a final-year B.Tech Data Science student at Shri Ramdeobaba College of Engineering and Management with a strong interest in Data Engineering, Analytics, Machine Learning, and Distributed Data Systems.
 
-Sales Forecasting Dashboard: Crafted interactive Power BI dashboards for trend spotting, slashing reporting time by 35%. Numbers that pop!
-​
+My work focuses on building scalable data pipelines, transforming raw data into actionable insights, and developing end-to-end data-driven solutions using modern data technologies.
 
-Sentiment Analysis Tool: NLP powerhouse classifying customer vibes and extracting insights from feedback chaos.
-​
+---
 
-🛠️ Tech Arsenal
-Languages & Tools: Python, SQL, Power BI, Git
-​
+## About Me
 
-Data Magic: Statistics, Data Cleaning, EDA, Feature Engineering
-​
+- 🎓 B.Tech in Data Science (CGPA: 8.75/10)
+- 📍 Nagpur, India
+- 💻 500+ DSA problems solved across LeetCode and HackerRank
+- 📊 Interested in Data Engineering, Analytics Engineering, and Machine Learning
+- 🚀 Passionate about building production-oriented data systems
 
-ML Mastery: Predictive Modeling, Machine Learning, NLP
-​
+---
 
-Databases: Hands-on with relational DBs
-​
+## Technical Skills
 
-📈 Experience
-Data Science Intern | Deloitte Australia Job Simulation (Sep 2025)
+### Programming Languages
+- Python
+- C++
+- SQL
 
-Crunched 1,000+ records: cleaned data, unearthed insights, and delivered analytics gold. Virtual internship, real-world impact!
-​
+### Data Engineering
+- Apache Kafka
+- PySpark
+- Databricks
+- Delta Lake
+- ETL Pipelines
+- Structured Streaming
 
-🎓 Education
-B.Tech Data Science | RCOEM, Nagpur (2023–2027, Expected) 
-​
+### Data Science & Machine Learning
+- Scikit-Learn
+- NLP
+- Ensemble Learning
+- Probabilistic Modeling
+- Feature Engineering
 
-Higher Secondary | Jain International College (2021–2023) 
-​
+### Data Visualization
+- Power BI
+- Tableau
 
+### Tools & Platforms
+- Git & GitHub
+- Docker
+- Linux (Ubuntu / WSL)
+- Flask
 
-​
+---
 
-📜 Certifications
-Oracle Data Science (2025)
-​
+## Featured Projects
 
-Oracle AI Foundations
-​
+### Global Event & Sentiment Streaming Pipeline
+**Tech Stack:** PySpark, Kafka, Delta Lake, Databricks
 
-📫 Let's Connect
-📧 sumit.pathrabe17@gmail.com
+- Built a Kappa Architecture pipeline processing over 1.2M global events monthly.
+- Implemented Kafka-based real-time ingestion with schema validation and DLQ handling.
+- Developed streaming sentiment analysis and entity extraction workflows using PySpark Structured Streaming.
+- Enabled near real-time analytics with low-latency processing.
 
-📱 +91 79724 42764
+---
 
+### Customer Lifetime Value (CLV) Analytics Platform
+**Tech Stack:** SQL, Python, Power BI
 
+- Analyzed 100k+ customer records to uncover revenue leakage and churn patterns.
+- Developed probabilistic CLV forecasting models for revenue prediction.
+- Automated KPI reporting pipelines for MRR, churn, and customer analytics.
+- Created interactive Power BI dashboards for business insights.
+
+---
+
+### Heart Disease Prediction Using ECG Signals
+**Tech Stack:** Python, Scikit-Learn, Flask, React
+
+- Built an end-to-end machine learning pipeline for cardiovascular disease prediction.
+- Applied feature engineering and signal preprocessing on ECG data.
+- Evaluated multiple classification models and selected the best-performing solution.
+- Developed a full-stack application for real-time prediction.
+
+---
+
+## Certifications
+
+- Oracle Cloud Infrastructure (OCI) Data Science Associate
+- Tata Consultancy Services – Data Analysis with Generative AI Job Simulation
+- Deloitte Australia – Data Analytics Job Simulation
+
+---
+
+## Competitive Programming
+
+- Solved 400+ algorithmic problems
+- Strong foundation in:
+  - Data Structures
+  - Algorithms
+  - Sliding Window
+  - Binary Search
+  - Dynamic Programming
+  - Graphs
+
+---
+
+## Current Focus
+
+- Data Engineering
+- Distributed Systems
+- Stream Processing
+- SQL Optimization
+- Cloud Data Platforms
+
+---
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sumit-pathrabe
+- GitHub: github.com/Sumit-Pathrabe
+- Email: sumit.pathrabe17@gmail.com
+
+---
+
+*"Turning data into reliable systems and actionable insights."*
